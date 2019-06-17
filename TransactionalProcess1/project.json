@@ -5,6 +5,7 @@
   "dependencies": {
     "UiPath.Excel.Activities": "[2.6.0]",
     "UiPath.Mail.Activities": "[1.5.0]",
+    "UiPath.OCR.Contracts": "[1.0.0]",
     "UiPath.System.Activities": "[19.5.0]",
     "UiPath.UIAutomation.Activities": "[19.5.0]"
   },
